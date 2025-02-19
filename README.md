@@ -91,4 +91,4 @@ private static final String PASSWORD = "";
 ## 📢 Kontribusi
 Jika ingin berkontribusi, silakan fork repo ini dan buat pull request.
 
-✉️ **Kontak**: email@example.com
+✉️ **Kontak**: idaandroids@gmail.com
